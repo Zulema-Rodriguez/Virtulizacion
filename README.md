@@ -66,3 +66,5 @@ VIRTUALIZACIÓN Y REDES: El correcto aprovisionamiento de servicios de red e int
 PLANIFICACIÓN Y MEMORIA: La asignación dinámica de buffers de memoria RAM para almacenar estructuras de datos eficientes (in-memory), mitigando los costos de latencia mecánica de los discos.
 
 SISTEMA DE ARCHIVOS Y GESTIÓN DE E/S: El control estricto de excepciones de Entrada y Salida (try-except) al manipular descriptores de archivos, asegurando que la interfaz cliente-servidor responda eficientemente con estados HTTP estables.
+
+LINK DEL VIDEO: https://drive.google.com/file/d/1c2voloBOsMYYIGBAlGOVWTkyAujaUyEx/view?usp=sharing
